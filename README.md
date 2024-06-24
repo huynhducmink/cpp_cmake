@@ -1,0 +1,1 @@
+# Sample project for learning CMake
